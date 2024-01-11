@@ -12,8 +12,10 @@ https://github.com/VideoGameTeam3/The-Mechanic/wiki
 
 ## תמונות
 
-![_9dfc4015-7677-4ee1-875d-089727239a6a](https://github.com/VideoGameTeam3/The-Mechanic/assets/118683420/b78c03f1-11e9-465c-8a01-8cedc5339815)
+![_f4e1c52d-24c6-42dc-8d83-37cde4ba58f9](https://github.com/VideoGameTeam3/The-Mechanic/assets/118683420/53ffa154-d518-4f48-93b8-f4584f6b28b4)
 
-![_dd44724b-2dd3-4087-aa79-c2865f4cbc6a](https://github.com/VideoGameTeam3/The-Mechanic/assets/118683420/9a5a9552-d4a2-4ca9-bd7c-04e5d143c314)
+
+![_97eb2e96-64bf-4293-8120-75b7e0a84b6c](https://github.com/VideoGameTeam3/The-Mechanic/assets/118683420/ea5091e8-9c58-499f-ae60-b5cf1afaf400)
+
 
 
