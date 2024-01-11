@@ -1,8 +1,5 @@
 # The-Mechanic
 
-## מבוא
-
-
 ### קישור לwiki: 
 
 https://github.com/VideoGameTeam3/The-Mechanic/wiki
