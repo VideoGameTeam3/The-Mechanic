@@ -1,5 +1,5 @@
 # The-Mechanic
-## הסבר המשחק:
+## הסבר המשחק
 
 השחקן הוא בעל מוסך שאין לו כל כך ידע התחלתי בטיפול ברכב, בתור התחלה מגיעים אליו לקוחות עם בעיות קטנות כגון פנצ'רים, החלפת מגבים וכו'.
 
@@ -10,11 +10,11 @@
 ## קישור למשחק
 [ClickHere](https://afinish.itch.io/the-mechanick)
 
-### קישור לwiki:
+### קישור לwiki
 
 [Click Here](https://github.com/VideoGameTeam3/The-Mechanic/wiki)
 
-## תמונות:
+## תמונות
 
 ![_f4e1c52d-24c6-42dc-8d83-37cde4ba58f9](https://github.com/VideoGameTeam3/The-Mechanic/assets/118683420/53ffa154-d518-4f48-93b8-f4584f6b28b4)
 
